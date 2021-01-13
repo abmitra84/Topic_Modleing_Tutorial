@@ -6,5 +6,5 @@
 Using LDA to make text prediction : https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28
 
 # Evaluate Topic Model Relevancy:
-https://www.cs.cmu.edu/~rsalakhu/papers/etm.pdf
+https://www.cs.cmu.edu/~rsalakhu/papers/etm.pdf <br>
 https://finale.seas.harvard.edu/files/finale/files/assessing_topic_model_relevance.pdf
